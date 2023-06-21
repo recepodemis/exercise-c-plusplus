@@ -1,8 +1,5 @@
 #include<iostream>
 
-//C++ allows us to 'overload' the same function name as long as
-//the variable types in the function inputs are different.
-
 class Compare
 {
 public:
