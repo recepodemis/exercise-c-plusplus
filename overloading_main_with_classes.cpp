@@ -1,8 +1,3 @@
-/*Goal: create a class that has two 
-*constructors; one that accepts
-*input parameters and one that does
-*not. 
-*/
 
 #include "overloading_main_with_classes.hpp"
 
