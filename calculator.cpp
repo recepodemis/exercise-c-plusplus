@@ -1,15 +1,3 @@
-/*Goal: Use 'pass by reference' to a function
-**to write this program.
-**There are two functions that you need to write 
-**for this program:
-**calculate(input1, input2, operation, result);
-**printEquation(input1, input2, operation, result);
-**Pass by reference any value that is modified
-**in the function.
-**
-**Put the declaration and the definitions of the 
-**functions in the header file.
-*/
 
 #include "calculator.hpp"
 
