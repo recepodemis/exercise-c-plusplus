@@ -1,6 +1,4 @@
-/*Goal: look at a program, and see if we can make it more versatile
-**Modify the compare class in main.hpp to include the 
-**additional function members.*/
+
 #include "overloading_main.hpp"
 
 int main()
